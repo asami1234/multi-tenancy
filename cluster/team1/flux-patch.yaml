@@ -17,3 +17,4 @@ spec:
             - --k8s-allow-namespace=team1
             - --git-url=git@github.com:asami1234/multi-tenancy-team1
             - --git-branch=master
+            - --git-path=workloads
